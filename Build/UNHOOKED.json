@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "UNHOOKED.data.unityweb",
+"asmCodeUrl": "UNHOOKED.asm.code.unityweb",
+"asmMemoryUrl": "UNHOOKED.asm.memory.unityweb",
+"asmFrameworkUrl": "UNHOOKED.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
